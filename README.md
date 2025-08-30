@@ -23,8 +23,8 @@ Um bot inteligente para WhatsApp desenvolvido com Python, utilizando tecnologias
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+git clone https://github.com/jbgbruno/chatbot-whatsapp-com-ia.git
+cd chatbot-whatsapp-com-ia
 ```
 
 2. Configure as variáveis de ambiente:
@@ -54,10 +54,6 @@ Este comando irá:
 docker compose down
 ```
 
-Para remover volumes e limpar completamente:
-```bash
-docker compose down -v
-```
 
 ## 📄 Licença
 
